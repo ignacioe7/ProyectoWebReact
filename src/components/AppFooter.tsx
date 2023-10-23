@@ -1,7 +1,7 @@
 
 const AppFooter = () => {
     return (
-        <footer className=" bg-gray-800">
+        <footer className="bg-gray-800 bg-gradient-to-b from-red-950/80 to-black/80">
 		<div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8">
 			<p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
 				“El músculo y la mente deben volverse uno. Uno sin el otro es cero”. Lee Haney.
